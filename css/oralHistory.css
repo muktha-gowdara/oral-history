@@ -85,3 +85,17 @@ html {
   min-width: 100%;
   min-height: 100%;
 }
+
+#subnote {
+    text-align: center;
+    background-color: whitesmoke;
+    color:teal;
+    z-index: 1;
+    position:relative; 
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contact {
+    margin: 10px;
+}

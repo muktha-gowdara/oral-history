@@ -32,9 +32,11 @@
     background-color: brown;
 }
 
+#home {
+    background-color: black;
+}
 #col4 {
     width: 30%;
-    background-color: black;
     margin-left: 48px;
 }
 
@@ -66,3 +68,4 @@
     margin-right: auto;
     margin-top: 50px;
   }
+
